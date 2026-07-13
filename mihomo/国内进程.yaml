@@ -1,9 +1,0 @@
-payload:
-  ## 王者荣耀
-  - "PROCESS-NAME,com.tencent.tmgp.sgame"
-  ## 原神
-  - "PROCESS-NAME,com.miHoYo.Yuanshen"
-  ## 涂鸦
-  - "PROCESS-NAME,com.tuya.smartiot"
-  ## 飞书
-  - "PROCESS-NAME,com.ss.android.lark"
