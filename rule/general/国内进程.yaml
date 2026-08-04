@@ -7,5 +7,5 @@ payload:
   - "PROCESS-NAME,com.tuya.smartiot"
   ## 飞书
   - "PROCESS-NAME,com.ss.android.lark"
-    ## 部落冲突助手
+  ## 部落冲突助手
   - "PROCESS-NAME,com.haoyu.clashVictory"
