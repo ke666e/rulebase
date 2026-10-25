@@ -11,5 +11,15 @@ payload:
   - "PROCESS-NAME,com.haoyu.clashVictory"
   ## 抖音
   - "PROCESS-NAME,com.ss.android.ugc.aweme"
+  ## 小米商城
+  - "PROCESS-NAME,com.xiaomi.shop"
   ## 拼多多
   - "PROCESS-NAME,com.xunmeng.pinduoduo"
+  ## 淘宝
+  - "PROCESS-NAME,com.taobao.taobao"
+  ## 京东
+  - "PROCESS-NAME,com.jingdong.app.mall"
+  ## 美团
+  - "PROCESS-NAME,com.sankuai.meituan"
+  ## 高德地图
+  - "PROCESS-NAME,com.autonavi.minimap"
