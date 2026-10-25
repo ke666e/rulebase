@@ -1,10 +1,4 @@
 payload:
-  ## 王者荣耀
-  - "PROCESS-NAME,com.tencent.tmgp.sgame"
-  ## 王者万象棋
-  - "PROCESS-NAME,com.tencent.tmgp.osgame"
-  ## 原神
-  - "PROCESS-NAME,com.miHoYo.Yuanshen"
   ## 涂鸦
   - "PROCESS-NAME,com.tuya.smartiot"
   ## 飞书
